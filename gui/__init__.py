@@ -1,0 +1,1 @@
+from .calculator1 import Ui_MainWindow
